@@ -1,0 +1,1 @@
+In this project I combined 2 powerful libraries: Selenium and Beautiful Soup. I navigated Selenium Web Driver to the result page where the data is stored. Then, I extracted required data with Beautiful Soup and Requests. I used the IMDB Movie Database for this particular project.
